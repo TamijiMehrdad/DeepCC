@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeepCC
 **Features for Multi-Target Multi-Camera Tracking and Re-Identification. CVPR 2018**
 
@@ -199,3 +200,6 @@ The DukeMTMC dataset is licensed under [CC BY-NC-SA 4.0](http://vision.cs.duke.e
 
 
 
+=======
+# DeepCC
+>>>>>>> 56c73a22298bb8666e2bab73145a83499d364e28
